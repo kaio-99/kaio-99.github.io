@@ -63,7 +63,7 @@ Disentangled Representation Learning for Robust Brainprint Recognition.
 
 `Chuhang Zheng`, Qi Zhu, Lunke Fei, Shengrong Li, Xiangping Zhai, David Zhang, Daoqiang Zhang.
 
-[[code]](https://github.com/xbrainnet/CAFNet) 
+[[code]](https://github.com/xbrainnet/ADN) 
 
 </div>
 </div>
