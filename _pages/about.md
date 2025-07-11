@@ -124,7 +124,7 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 - *2024.11* 研究生国家奖学金 (National Scholarship for Master Student)
 - *2024.11* 南京航空航天大学“科研创新先进个人” (NUAA Innovation Research Advanced Individual)
 - *2024.11* 中国国际大学生创新大赛全国金奖 (National Gold Award of China International College Students Innovation Competition, ranked:5)
-- *2024.10* 山东省大学生创新大赛暨中国国际大学生创新大赛金奖 (Shandong Provincial Gold Award of China International College Students Innovation Competition, ranked:3)
+- *2024.10* 山东省大学生创新大赛省级金奖 (Shandong Provincial Gold Award of College Students Innovation Competition, ranked:3)
 - *2024.01* 南京航空航天大学“三好研究生” (NUAA Merit Student)
 - *2023.12* 南京航空航天大学“科研创新先进个人” (NUAA Innovation Research Advanced Individual)
 
