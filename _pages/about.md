@@ -24,8 +24,6 @@ My research areas mainly focus on:
 - Computational Imaging
 - Multi-modal Affective Computing
 - Brain Decoding
-  
-
 
 <span class='anchor' id='-xl'></span>
 
@@ -33,6 +31,16 @@ My research areas mainly focus on:
 - *2025.09 - 2029.xx*, <a href="https://tju.edu.cn/"><img class="svg" src="/images/tju.png" width="23pt"></a> Tianjin University (Fuzhou), Fuzhou, Fujian Province, Doctorate. 
 - *2022.09 - 2025.04*, <a href="https://nuaa.edu.cn/"><img class="svg" src="/images/nuaa.jpg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu Province, Master. (Exam-free Recommendation)
 - *2018.09 - 2022.07*, <a href="https://www.jmu.edu.cn/"><img class="svg" src="/images/jmu.png" width="20pt"></a> Jimei University, Xiamen, Fujian Province, Bachelor. (ranking: 2/114)
+
+<span class='anchor' id='-news'></span>
+
+# 📰 News
+- *2025.07* One paper on multi-modal emotion distribution learning is accepted by ACM MM 2025 (`CCF-A`).
+- *2025.03* One paper on cross-subject multi-modal emotion recognition is accepted by IEEE TAFFC (`Top journal on affective computing`).
+- *2025.03* One paper on cross-subject multi-modal emotion recognition is accepted by IEEE TCDS.
+- *2024.11* Won the master's national scholarship.
+- *2023.12* One paper on multi-modal emotion recognition is accepted by IEEE TAFFC (`Top journal on affective computing`).
+- *2023.05* One paper on multi-modal emotion recognition is early accepted by MICCAI 2023 (`CCF-B, ~25%`).
  
 <span class='anchor' id='-lwzl'></span>
 
