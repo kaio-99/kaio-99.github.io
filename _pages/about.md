@@ -47,22 +47,6 @@ My research areas mainly focus on:
 
 # 📝 Researches
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MM2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- -	`Chuhang Zheng`, Chunwei Tian, Jie Wen, Daoqiang Zhang, Qi Zhu. HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning. *ACM MM*, 2025. (CCF:A)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) -->
-**ACM MM 2025 (CCF-A)**
-
-HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning.
-
-`Chuhang Zheng`, Chunwei Tian, Jie Wen, Daoqiang Zhang, Qi Zhu.
-
-[[paper]](https://arxiv.org/abs/2507.06821) [[code]](https://github.com/kaio-99/HeLo) 
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,6 +57,20 @@ Disentangled Representation Learning for Robust Brainprint Recognition.
 `Chuhang Zheng`, Qi Zhu, Lunke Fei, Shengrong Li, Xiangping Zhai, David Zhang, Daoqiang Zhang.
 
 [[code]](https://github.com/xbrainnet/ADN) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MM2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ACM MM 2025 (CCF-A)**
+
+HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning.
+
+`Chuhang Zheng`, Chunwei Tian, Jie Wen, Daoqiang Zhang, Qi Zhu.
+
+[[paper]](https://arxiv.org/abs/2507.06821) [[code]](https://github.com/kaio-99/HeLo) 
 
 </div>
 </div>
@@ -147,4 +145,5 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 - **Conference Review**
 
 $~~~~~~$ CVPR, ACM MM.
+
 
