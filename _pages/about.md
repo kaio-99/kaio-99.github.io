@@ -144,7 +144,8 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 
 - **Conference Review**
 
-$~~~~~~$ CVPR, ACM MM.
+$~~~~~~$ CVPR 2025, ACM MM 2025, AAAI 2025.
+
 
 
 
