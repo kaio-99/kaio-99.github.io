@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chuhang Zheng"
   avatar           : "images/shot.jpg"
-  bio              : "Nanjing University of Aeronautics and Astronautics"
-  location         : "Nanjing, Jiangsu Province"
+  bio              : "Tianjin University (Fuzhou)"
+  location         : "Fuzhou, Fujian Province"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k_ztLGIAAAAJ&hl=zh-CN"
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
