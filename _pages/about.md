@@ -35,6 +35,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 📰 News
+- *2025.08* One paper on EEG biometrics is accepted by IEEE TIFS (`CCF-A, Top journal on AI security`).
 - *2025.07* One paper on multi-modal emotion distribution learning is accepted by ACM MM 2025 (`CCF-A`).
 - *2025.03* One paper on cross-subject multi-modal emotion recognition is accepted by IEEE TAFFC (`Top journal on affective computing`).
 - *2025.03* One paper on cross-subject multi-modal emotion recognition is accepted by IEEE TCDS.
@@ -62,10 +63,10 @@ HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distri
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**In Revision**
+**IEEE TIFS (CCF-A, SCI Q1, IF:8.0)**
 
 Disentangled Representation Learning for Robust Brainprint Recognition.
 
@@ -146,3 +147,4 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 - **Conference Review**
 
 $~~~~~~$ CVPR, ACM MM.
+
