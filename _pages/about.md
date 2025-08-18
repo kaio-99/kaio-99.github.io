@@ -18,7 +18,7 @@ redirect_from:
 # 🧑‍🎓 About Me
 <span class='anchor' id='about-me'></span>
 
-I'm going to pursue my doctorate at [School of Electrical and Information Engineering](https://seea.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/) in 2025.9, under the supervision of [Prof. Jingyu Yang](https://seea.tju.edu.cn/info/1015/1608.htm). Previously, I received Master's degree from the [College of ​Artificial Intelligence](http://ai.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/), supervised by [Prof. Qi Zhu](https://faculty.nuaa.edu.cn/zhuqi/zh_CN/index.htm).
+I'm currently pursuing my doctorate at [School of Electrical and Information Engineering](https://seea.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/) in 2025.9, under the supervision of [Prof. Jingyu Yang](https://seea.tju.edu.cn/info/1015/1608.htm). Previously, I received Master's degree from the [College of ​Artificial Intelligence](http://ai.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/), supervised by [Prof. Qi Zhu](https://faculty.nuaa.edu.cn/zhuqi/zh_CN/index.htm).
 
 My research areas mainly focus on:
 - Computational Imaging
@@ -145,5 +145,6 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 - **Conference Review**
 
 $~~~~~~$ CVPR, ACM MM.
+
 
 
