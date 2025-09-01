@@ -56,7 +56,7 @@ Disentangled Representation Learning for Robust Brainprint Recognition.
 
 `Chuhang Zheng`, Qi Zhu, Lunke Fei, Shengrong Li, Xiangping Zhai, David Zhang, Daoqiang Zhang.
 
-[[code]](https://github.com/xbrainnet/ADN) 
+[[paper]]([https://arxiv.org/abs/2507.06821](https://ieeexplore.ieee.org/abstract/document/11138010)) [[code]](https://github.com/xbrainnet/ADN) 
 
 </div>
 </div>
@@ -145,6 +145,7 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 - **Conference Review**
 
 $~~~~~~$ CVPR 2025, ACM MM 2025, AAAI 2025.
+
 
 
 
