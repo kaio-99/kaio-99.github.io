@@ -35,6 +35,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 📰 News
+- *2025.09* One paper on brain disease diagnosis is accepted by IEEE TIP (`CCF-A, Top journal on image processing`).
 - *2025.08* One paper on EEG biometrics is accepted by IEEE TIFS (`CCF-A, Top journal on AI security`).
 - *2025.07* One paper on multi-modal emotion distribution learning is accepted by ACM MM 2025 (`CCF-A`).
 - *2025.03* One paper on cross-subject multi-modal emotion recognition is accepted by IEEE TAFFC (`Top journal on affective computing`).
@@ -103,6 +104,10 @@ Prior-Driven Dynamic Brain Networks for Multi-modal Emotion Recognition
 </div>
 </div>
 
+- **IEEE TIP 2025** : [Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging.](https://ieeexplore.ieee.org/abstract/document/11164962)
+
+$~~~~~~$ Shengrong Li, Qi Zhu, Chunwei Tian, Li Zhang, Bo Shen, `Chuhang Zheng`, Daoqiang Zhang, Wei Shao. 
+
 - **IEEE TAFFC 2025** : [Multi-Modal Cross-Subject Emotion Feature Alignment and Recognition with EEG and Eye Movements.](https://ieeexplore.ieee.org/document/10938180)
 
 $~~~~~~$ Qi Zhu, Ting Zhu, Lunke Fei, `Chuhang Zheng`, Wei Shao, Daoqiang Zhang, David Zhang. 
@@ -145,6 +150,7 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 - **Conference Review**
 
 $~~~~~~$ CVPR 2025, ACM MM 2025, AAAI 2025.
+
 
 
 
