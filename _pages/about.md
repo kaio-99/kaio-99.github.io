@@ -71,7 +71,7 @@ HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distri
 
 `Chuhang Zheng`, Chunwei Tian, Jie Wen, Daoqiang Zhang, Qi Zhu.
 
-[[paper]](https://arxiv.org/abs/2507.06821) [[code]](https://github.com/kaio-99/HeLo) 
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754852) [[code]](https://github.com/kaio-99/HeLo) 
 
 </div>
 </div>
@@ -150,6 +150,7 @@ $~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Comp
 - **Conference Review**
 
 $~~~~~~$ CVPR 2025, ACM MM 2025, AAAI 2025.
+
 
 
 
