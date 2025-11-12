@@ -145,11 +145,19 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 # 🏛️ Others
 - **Journal Review**
 
-$~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), Computational Intelligence.
+$~~~~~~$ IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
+Scientific Report
+Multimedia Systems
+Computational Intelligence
+
+
 
 - **Conference Review**
 
-$~~~~~~$ CVPR 2025, ACM MM 2025, AAAI 2025.
+$~~~~~~$ CVPR 2025
+ACM MM 2025
+AAAI 2026.
+
 
 
 
