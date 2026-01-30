@@ -35,6 +35,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 📰 News
+- *2026.01* One paper on sleep stage classification is accepted by IEEE TETCI.
 - *2025.09* One paper on brain disease diagnosis is accepted by IEEE TIP (`CCF-A, Top journal on image processing`).
 - *2025.08* One paper on EEG biometrics is accepted by IEEE TIFS (`CCF-A, Top journal on AI security`).
 - *2025.07* One paper on multi-modal emotion distribution learning is accepted by ACM MM 2025 (`CCF-A`).
@@ -104,6 +105,10 @@ Prior-Driven Dynamic Brain Networks for Multi-modal Emotion Recognition
 </div>
 </div>
 
+- **IEEE TETCI 2026** : [Heterogeneous Modality Dynamic Trustworthy Fusion Network for Cross-Subject Sleep Stage Classification.](https://ieeexplore.ieee.org/abstract/document/11339351/)
+
+$~~~~~~$ Kun Wang, Qi Zhu, Junyong Zhao, `Chuhang Zheng`, Wei Shao, Daoqiang Zhang. 
+
 - **IEEE TIP 2025** : [Spatio-Temporal Evolutionary Graph Learning for Brain Network Analysis using Medical Imaging.](https://ieeexplore.ieee.org/abstract/document/11164962)
 
 $~~~~~~$ Shengrong Li, Qi Zhu, Chunwei Tian, Li Zhang, Bo Shen, `Chuhang Zheng`, Daoqiang Zhang, Wei Shao. 
@@ -157,11 +162,14 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 
 - **Conference Review**
 
+&emsp;ICML 2026
+
+&emsp;AAAI 2026
+
 &emsp;CVPR 2025
 
 &emsp;ACM MM 2025
 
-&emsp;AAAI 2026
 
 
 
