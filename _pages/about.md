@@ -35,6 +35,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 📰 News
+- *2026.03* One paper on cross-subject emotion recognition is accepted by ICME 2026 (`CCF-B`).
 - *2026.01* One paper on sleep stage classification is accepted by IEEE TETCI.
 - *2025.09* One paper on brain disease diagnosis is accepted by IEEE TIP (`CCF-A, Top journal on image processing`).
 - *2025.08* One paper on EEG biometrics is accepted by IEEE TIFS (`CCF-A, Top journal on AI security`).
@@ -104,6 +105,10 @@ Prior-Driven Dynamic Brain Networks for Multi-modal Emotion Recognition
 
 </div>
 </div>
+
+- **ICME 2026** : [Non-Depersonalized Dynamics Disentanglement for EEG Cross-Subject Emotion Recognition.]
+
+$~~~~~~$ Minxu Liu, Donghai Guan, `Chuhang Zheng`, Qi Zhu. 
 
 - **IEEE TETCI 2026** : [Heterogeneous Modality Dynamic Trustworthy Fusion Network for Cross-Subject Sleep Stage Classification.](https://ieeexplore.ieee.org/abstract/document/11339351/)
 
