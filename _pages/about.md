@@ -107,6 +107,7 @@ Prior-Driven Dynamic Brain Networks for Multi-modal Emotion Recognition
 </div>
 
 - **ICME 2026** : [Non-Depersonalized Dynamics Disentanglement for EEG Cross-Subject Emotion Recognition.]
+()
 
 $~~~~~~$ Minxu Liu, Donghai Guan, `Chuhang Zheng`, Qi Zhu. 
 
