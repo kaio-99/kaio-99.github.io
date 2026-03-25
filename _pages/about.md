@@ -157,7 +157,7 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 
 &emsp;IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
 
-&emsp;Information Fusion (INFUSS)
+&emsp;Information Fusion (INFFUS)
 
 &emsp;Scientific Report
 
