@@ -157,6 +157,8 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 
 &emsp;IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
 
+&emsp;Information Fusion (INFUSS)
+
 &emsp;Scientific Report
 
 &emsp;Multimedia Systems
@@ -166,6 +168,8 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 
 
 - **Conference Review**
+
+&emsp;NIPS 2026
 
 &emsp;ICML 2026
 
