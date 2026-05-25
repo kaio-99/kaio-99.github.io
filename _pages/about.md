@@ -58,7 +58,7 @@ My research areas mainly focus on:
 
 Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment.
 
-Fan Yin*, `Chuhang Zheng*`, Peiliang Gong, Donghai Guan, Qi Zhu. (*: Equal Contributions)
+Fan Yin, `Chuhang Zheng`, Peiliang Gong, Donghai Guan, Qi Zhu. (Co-first Author)
 
 [[paper]](https://arxiv.org/abs/2605.16418) 
 
