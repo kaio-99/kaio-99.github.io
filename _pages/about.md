@@ -51,6 +51,20 @@ My research areas mainly focus on:
 
 # 📝 Researches
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CAIA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Under Review**
+
+Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment.
+
+Fan Yin*, `Chuhang Zheng*`, Peiliang Gong, Donghai Guan, Qi Zhu. (*: Equal Contributions)
+
+[[paper]](https://arxiv.org/abs/2605.16418) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
