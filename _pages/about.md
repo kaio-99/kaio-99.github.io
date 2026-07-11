@@ -35,7 +35,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 📰 News
-- *2026.05* One **co-first author** paper on brain decoding was accepted by ACM-MM 2026 (`CCF-A`).
+- *2026.07* One **co-first author** paper on brain decoding was accepted by ACM-MM 2026 (`CCF-A`).
 - *2026.05* One paper on brain decoding was accepted by ICML 2026 (`CCF-A`).
 - *2026.03* One paper on cross-subject emotion recognition was accepted by ICME 2026 (`CCF-B`).
 - *2026.01* One paper on sleep stage classification was accepted by IEEE TETCI.
