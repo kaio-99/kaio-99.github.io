@@ -35,17 +35,18 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 📰 News
+- *2026.05* One **co-first author** paper on brain decoding was accepted by ACM-MM 2026 (`CCF-A`).
 - *2026.05* One paper on brain decoding was accepted by ICML 2026 (`CCF-A`).
 - *2026.03* One paper on cross-subject emotion recognition was accepted by ICME 2026 (`CCF-B`).
 - *2026.01* One paper on sleep stage classification was accepted by IEEE TETCI.
 - *2025.09* One paper on brain disease diagnosis was accepted by IEEE TIP (`CCF-A, Top journal on image processing`).
-- *2025.08* One paper on EEG biometrics was accepted by IEEE TIFS (`CCF-A, Top journal on AI security`).
-- *2025.07* One paper on multi-modal emotion distribution learning was accepted by ACM MM 2025 (`CCF-A`).
+- *2025.08* One **first author** paper on EEG biometrics was accepted by IEEE TIFS (`CCF-A, Top journal on AI security`).
+- *2025.07* One **first author** paper on multi-modal emotion distribution learning was accepted by ACM MM 2025 (`CCF-A`).
 - *2025.03* One paper on cross-subject multi-modal emotion recognition was accepted by IEEE TAFFC (`Top journal on affective computing`).
 - *2025.03* One paper on cross-subject multi-modal emotion recognition was accepted by IEEE TCDS.
 - *2024.11* Won the master's national scholarship.
-- *2023.12* One paper on multi-modal emotion recognition was accepted by IEEE TAFFC (`Top journal on affective computing`).
-- *2023.05* One paper on multi-modal emotion recognition was early accepted by MICCAI 2023 (`CCF-B, ~25%`).
+- *2023.12* One **first author** paper on multi-modal emotion recognition was accepted by IEEE TAFFC (`Top journal on affective computing`).
+- *2023.05* One **first author** paper on multi-modal emotion recognition was early accepted by MICCAI 2023 (`CCF-B, ~25%`).
  
 <span class='anchor' id='-lwzl'></span>
 
