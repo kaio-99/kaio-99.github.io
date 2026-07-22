@@ -52,6 +52,20 @@ My research areas mainly focus on:
 
 # 📝 Researches
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/MM2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ACM MM 2026 (CCF-A)**
+
+FSDBN: Foreground-Aware EEG–Visual Alignment via Dynamic Brain Networks.
+
+Yiheng Liu, `Chuhang Zheng`, Peiliang Gong, Jingtao Liu, Daoqiang Zhang, Qi Zhu. (Co-first Author)
+
+[[paper]](https://arxiv.org/pdf/2607.18344) [[code]](https://github.com/LiuYiheng1/FSDBN-EEG) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/CAIA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
