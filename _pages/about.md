@@ -25,12 +25,12 @@ My research areas mainly focus on:
 - Multi-modal Affective Computing
 - Brain Decoding
 
-<span class='anchor' id='-xl'></span>
+<!--# <span class='anchor' id='-xl'></span> -->
 
-# 🎓 Educations
+<!--# 🎓 Educations
 - *2025.09 - 2029.xx*, <a href="https://tju.edu.cn/"><img class="svg" src="/images/tju.png" width="23pt"></a> Tianjin University (Fuzhou), Fuzhou, Fujian Province, Doctorate. 
 - *2022.09 - 2025.04*, <a href="https://nuaa.edu.cn/"><img class="svg" src="/images/nuaa.jpg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, Nanjing, Jiangsu Province, Master. (Exam-free Recommendation)
-- *2018.09 - 2022.07*, <a href="https://www.jmu.edu.cn/"><img class="svg" src="/images/jmu.png" width="20pt"></a> Jimei University, Xiamen, Fujian Province, Bachelor. (ranking: 2/114)
+- *2018.09 - 2022.07*, <a href="https://www.jmu.edu.cn/"><img class="svg" src="/images/jmu.png" width="20pt"></a> Jimei University, Xiamen, Fujian Province, Bachelor. (ranking: 2/114) -->
 
 <span class='anchor' id='-news'></span>
 
@@ -189,9 +189,13 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 # 🏛️ Others
 - **Journal Review**
 
+&emsp;IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+
 &emsp;IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
 
 &emsp;Information Fusion (INFFUS)
+
+&emsp;‌Biomedical Signal Processing and Control
 
 &emsp;Scientific Report
 
