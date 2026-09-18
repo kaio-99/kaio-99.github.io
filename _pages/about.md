@@ -189,7 +189,7 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 # 🏛️ Others
 - **Journal Review**
 
-&emsp;IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+&emsp;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 &emsp;IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
 
