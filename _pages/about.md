@@ -193,6 +193,8 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 
 &emsp;IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)
 
+&emsp;Information Processing and Management (IPM)
+
 &emsp;Information Fusion (INFFUS)
 
 &emsp;‌Biomedical Signal Processing and Control
