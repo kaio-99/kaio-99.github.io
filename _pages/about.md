@@ -56,7 +56,7 @@ My research areas mainly focus on:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/CAIA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**NeurIPS 2026 (CCF-A)**
+**NeurIPS 2026 (CCF-A, Spotlight)**
 
 Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment.
 
