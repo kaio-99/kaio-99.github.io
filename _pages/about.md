@@ -53,7 +53,7 @@ My research areas mainly focus on:
 
 # 📝 Researches
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026 Spotlight</div><img src='images/CAIA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2026 (CCF-A, Spotlight)</div><img src='images/CAIA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **NIPS 2026 Spotlight**
