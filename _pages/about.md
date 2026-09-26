@@ -34,7 +34,7 @@ My research areas mainly focus on:
 
 <span class='anchor' id='-news'></span>
 
-# 📰 News
+# 🔥 News
 - *2026.09* One **co-first author** paper on brain decoding was accepted by NeurIPS 2026 (`CCF-A`) as `Spotlight` (~3.6% of accepted papers).
 - *2026.07* One **co-first author** paper on brain decoding was accepted by ACM-MM 2026 (`CCF-A`).
 - *2026.05* One paper on brain decoding was accepted by ICML 2026 (`CCF-A`).
@@ -52,7 +52,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Researches
-
+## 🧠 Neural-Visual Decoding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/CAIA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,6 +81,7 @@ Yiheng Liu, `Chuhang Zheng`, Peiliang Gong, Jingtao Liu, Daoqiang Zhang, Qi Zhu.
 </div>
 </div>
 
+## 🤖 Emotion Decoding & Biometrics
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/TIFS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
