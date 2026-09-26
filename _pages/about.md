@@ -21,9 +21,11 @@ redirect_from:
 I'm currently pursuing my doctorate at [School of Electrical and Information Engineering](https://seea.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), under the supervision of [Prof. Jingyu Yang](https://seea.tju.edu.cn/info/1015/1608.htm). Previously, I received Master's degree from the [College of ​Artificial Intelligence](http://ai.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/), supervised by [Prof. Qi Zhu](https://faculty.nuaa.edu.cn/zhuqi/zh_CN/index.htm).
 
 My research areas mainly focus on:
-- Computational Imaging
+- Ligh-field Microscopy
 - Multi-modal Affective Computing
 - Brain Decoding
+
+📢📢 <span style="color:red;">For collaborations in the field of **Ligh-field Microscopy 3D Reconstruction** or **Brain Decoding**, I’m open to all kinds of collaboration — please feel free to reach out via email.
 
 <!--# <span class='anchor' id='-xl'></span> -->
 
