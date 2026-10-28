@@ -37,7 +37,7 @@ My research areas mainly focus on:
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2026.10* Selected for **"2026 Doctoral Student Program of the Young Science and Technology Talent Development Project of the CAST (2026年中国科协青年科技人才培育工程博士生专项计划)"**.
+- *2026.10* Selected for **"2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Track)"**.
 - *2026.09* One **co-first author** paper on brain decoding was accepted by NeurIPS 2026 (`CCF-A`) as `Spotlight` (~3.6% of accepted papers).
 - *2026.07* One **co-first author** paper on brain decoding was accepted by ACM-MM 2026 (`CCF-A`).
 - *2026.05* One paper on brain decoding was accepted by ICML 2026 (`CCF-A`).
@@ -181,7 +181,7 @@ $~~~~~~$ Ting Zhu, `Chuhang Zheng`, Yueying Zhou, Pengpai Wang, Qi Zhu.
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors
-- *2026.10* 2026年中国科协青年科技人才培育工程博士生专项计划 (2026 Doctoral Student Program of the Young Science and Technology Talent Development Project of the CAST)
+- *2026.10* 2026年中国科协青年科技人才培育工程博士生专项计划 (2026 CAST Young Science and Technology Talent Cultivation Program, Doctoral Track)
 - *2025.03* 南京航空航天大学“优秀毕业研究生” (NUAA Outstanding Graduate Student)
 - *2024.11* 研究生国家奖学金 (National Scholarship for Master Student)
 - *2024.11* 南京航空航天大学“科研创新先进个人” (NUAA Innovation Research Advanced Individual)
